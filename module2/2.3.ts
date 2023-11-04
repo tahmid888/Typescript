@@ -1,5 +1,5 @@
 {
- // generics type 
+ // generics type --> TypeScript Generics is a tool which provides us a  way to create reusable components
 
 type GenericArray<T> = Array<T>
 
